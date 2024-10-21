@@ -1,18 +1,24 @@
-# Sanjay-sg-Ex-9---RSA-Encryption-Algorithm
+# MUKESH-Ex-9---RSA-Encryption-Algorithm
 
 ## AIM:
 To implement encryption and decryption using RSA algorithm.
 
 ## ALGORITHM:
-•	Select 2 prime numbers p and q.
-•	Calculate n and pi(n).
-•	Choose small number e.
-•	Calculate d.
-•	Perform encryption and decryption and get the outputs correspondingly.
+
+      •	Select 2 prime numbers p and q.
+
+      •	Calculate n and pi(n).
+
+      •	Choose small number e.
+
+      •	Calculate d.
+
+      •	Perform encryption and decryption and get the outputs correspondingly.
 
 ## PROGRAM:
-### NAME: SANJAY G
-### REG_NO: 212222230131
+
+### NAME: MUKESH P
+### REG_NO: 212222240068
 ```
 #include <stdio.h>
 #include <math.h>
